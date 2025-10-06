@@ -10,7 +10,6 @@
 
 - 👯 I’m looking to collaborate on [various projects](s)
 
-- 🤝 I’m looking for help with [s](s)
 
 - 👨‍💻 All of my projects are available at [github](github)
 
