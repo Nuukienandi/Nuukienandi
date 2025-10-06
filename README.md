@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hilya</h1>
 <h3 align="center">A passionate frontend developer and game developer and website app developer.Bachelors of Informatics student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nuukienandi&label=Profile%20views&color=0e75b6&style=flat" alt="nuukienandi" /> </p>
 
 
 
