@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Women's health app,Educational game app,Internship app for students](sss)
 
-- 🌱 I’m currently learning **Java,html,css,javascript,react,php,sql,python,docker**
+- 🌱 I’m currently learning **Java,html,css,javascript,react,php,sql,python,flutter
 
 - 👯 I’m looking to collaborate on [various projects](s)
 
@@ -28,4 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nuukienandi&show_icons=true&theme=dark&locale=en" alt="nuukienandi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nuukienandi&theme=dark" alt="nuukienandi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nuukienandi&theme=dark" alt="nu
