@@ -1,31 +1,91 @@
-<h1 align="center">Hi 👋, I'm Hilya</h1>
-<h3 align="center">A passionate frontend developer and game developer and website app developer.Bachelors of Informatics student</h3>
-
-
-
-
-- 🔭 I’m currently working on [Women's health app,Educational game app,Internship app for students](sss)
-
-- 🌱 I’m currently learning **Java,html,css,javascript,react,php,sql,python,flutter
-
-- 👯 I’m looking to collaborate on [various projects](s)
-
-
-- 👨‍💻 All of my projects are available at [github](github)
-
-- 📫 How to reach me **hilyanuukula@gmail.com**
-
-- ⚡ Fun fact **I love to read,knit,lean new languages and code**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<!-- Centered Profile Header with Styling -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&lines=Hi,+I'm+Hilya;Frontend+%26+Game+Developer;App+Developer;Bachelor+of+Informatics+Student" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nuukienandi&show_icons=true&theme=dark&locale=en&layout=compact" alt="nuukienandi" /></p>
+### 🧑‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nuukienandi&show_icons=true&theme=dark&locale=en" alt="nuukienandi" /></p>
+🎓 **Bachelor of Informatics student**, passionate about frontend, game, and app development.
+🔥 I love turning ideas into clean, usable software that solves real problems.
+🌍 Currently building apps in the women's health, education, and student-support spaces.
+🤝 Open to collaborating on interesting projects.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nuukienandi&theme=dark" alt="nu
+---
+
+### 🛠️ Tech Stack
+
+#### 👨‍💻 Languages
+![Java](https://img.shields.io/badge/Java-%23ED1D25?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%23FFD43B?style=for-the-badge&logo=python&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-%23E44D26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### 🔧 Frameworks & Tools
+![React](https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+### 🚀 Currently Exploring
+- 💻 Sharpening **frontend development** with React
+- 📱 Building cross-platform apps with **Flutter**
+- 🎮 Game development fundamentals
+- 🗃️ Stronger **database design** with SQL
+
+---
+
+### 📁 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [Women's Health App](sss) | App supporting women's wellness and health tracking | Flutter · Dart |
+| [Educational Game App](sss) | Game-based app designed to make learning more engaging | Flutter / JavaScript |
+| [Internship App for Students](sss) | App helping students find and manage internship opportunities | React · SQL |
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nuukienandi&show_icons=true&theme=dark&locale=en" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuukienandi&show_icons=true&theme=dark&locale=en&layout=compact" height="170px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nuukienandi&theme=dark" alt="nuukienandi streak stats"/>
+</p>
+
+---
+
+### 🔗 Let's Connect
+
+<p align="left">
+  <a href="https://github.com/Nuukienandi" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/hilya-nuukula-68b939330/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:hilyanuukula@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 💬 Fun Fact
+> I love to read, knit, learn new languages, and code.
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=100&section=footer"/>
+</p>
