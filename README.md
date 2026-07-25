@@ -47,7 +47,7 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| [Women's Health App](sss) | App supporting women's wellness and health tracking | Flutter · Dart |
+| [Tribial Treasures](https://nuukienandi.github.io/Tribal-Treasures/) | Namibian based web game. |
 | [Educational Game App](sss) | Game-based app designed to make learning more engaging | Flutter / JavaScript |
 | [Internship App for Students](sss) | App helping students find and manage internship opportunities | React · SQL |
 
